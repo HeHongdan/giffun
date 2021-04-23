@@ -1,3 +1,7 @@
+java版本
+https://github.com/longlong-2l/giffun-master-java
+
+
 # 趣享GIF开源版 v1.0.3
 
 <img src="screenshots/giffun_demo.gif" width="240" align="right" hspace="20">
